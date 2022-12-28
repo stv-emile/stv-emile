@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stv-emile, stands for Steevenson Emile
 - 👀 I’m interested in Data driven systems for the good, specifically in the field of branding management systems
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on a book recommendation system by prequesite of the reader.
+- 💞️ I’m looking to collaborate on a book recommendation system.
 - 📫 you can reach me by steevensedu@gmail.com
 
 <!---
