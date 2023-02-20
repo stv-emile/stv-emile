@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @stv-emile, stands for Steevenson Emile
-- stack - javascript| html | css | php | java | python | C
-- 👀 I’m interested in Data driven systems for the good, specifically in the field of branding management systems
-- 🌱 I’m currently learning Machine learning
+- 👋 Hi, I’m @stv-emile, stands for Steevenson Emile. I'm a software developper.
+- My stacks are - javascript| html | css | php | java | python | C 
+- I don't specify tech, cause i'm too flexible to navigate from one to other depend on a project. If you have a project dm me.
+- 👀 I’m interested in Data driven systems for the good, specifically in the field of branding management systems.
+- 🌱 I’m currently learning Machine learning on my own. to level up my skills.
 - 💞️ I’m looking to collaborate on a book recommendation system.
 - 📫 you can reach me by steevensedu@gmail.com
 
-<!---
-stv-emile/stv-emile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
