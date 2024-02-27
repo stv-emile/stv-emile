@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @stv-emile, stands for Steevenson Emile. I'm a software developper.
-- My stacks are - javascript| html | css | php | java | python | C 
-- Stack again : Bash Hero, Git, Docker, linux 
+- My stacks are - C/C++ for embedded ststem and general purpose dev | Python | Web technology and Devops tools 
 - it's a Stack too : uh guess what ??
-- I don't specify tech, cause i'm too flexible to navigate from one to other depend on a project.
-- 👀 I’m interested in Data driven systems for the good in a multidisciplinary context. specifically in the field of branding management systems.
-- 🌱 I’m currently learning Machine learning on my own. to level up my skills.
-- 💞️ I’m looking to collaborate on a book recommendation system.
+- I don't specify tech, cause i'm flexible to navigate from one to other depend on a project.
+- 👀 I’m interested in Distributed intelligence systems for the real time decision. specifically in Machine Vision.
+- 🌱 I’m currently doing Pattern Recognintion and Machine Learning.
+- 👍🏽 Embedded System Devlopment.
 - 📫 you can reach me by steevensedu@gmail.com
 
